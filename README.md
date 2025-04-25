@@ -8,9 +8,11 @@ twitter-web-exporter-p: 一种结合 [twitter-web-exporter](https://github.com/p
 
 3. 打开zumarobot.exe, 在用户、书签、搜索结果等页面的自动滚动，在滚动过程中，页面上的推文即可由twitter-web-exporter自动下载。
 
-![06_patch2.png](https://github.com/user-attachments/assets/b625fed9-7ab9-45ba-8dbc-991065f82a8f)
 
-![06_patch2.png](https://github.com/user-attachments/assets/98852970-c33f-4e18-b790-2130e334a2b7)
+![06_patch2](https://github.com/user-attachments/assets/a26967cc-c97f-4e4d-b9ef-8e773c33c577)
+
+
+![06_patch2](https://github.com/user-attachments/assets/d66c3931-917f-4c59-ab0c-cb4a516574a5)
 
 详细视频:
 https://youtu.be/dwlXvOzRkFo
