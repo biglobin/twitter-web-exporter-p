@@ -31,7 +31,7 @@ https://youtu.be/dwlXvOzRkFo
 
 ![06_patch2.png](https://github.com/biglobin/twitter-web-exporter-p/blob/main/docs/06_patch2.png)
 
-**步骤3: **
+**步骤3：**
 打开zumarobot.exe， 选择采集推文详情。配置好采集目标(用户|标签|搜索结果)后，点击启动。
 (原理： 点击插件面板上的推文链接，打开推文页面时，twitter-web-exporter即可自动下载推文详情。
 持续自动和重复点击，即可下载所有推文详情。)
