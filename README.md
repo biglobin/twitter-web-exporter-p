@@ -4,7 +4,9 @@ twitter-web-exporter-p: 一种结合 [twitter-web-exporter](https://github.com/p
 ## 一. 自动采集用户、书签、搜索结果推文:
 1. 安装[twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) 
 
-2. 下载zumarobot：[zumarobot.zip](https://github.com/biglobin/twitter-web-exporter-p/blob/main/dist/zumarobot.zip)
+2. 下载zumarobot：
+[外网下载链接](https://github.com/biglobin/twitter-web-exporter-p/releases)
+[国内下载链接](https://gitee.com/biglobin/zumarobot/releases)
 
 3. 打开zumarobot.exe, 在用户、书签、搜索结果等页面的自动滚动，在滚动过程中，页面上的推文即可由twitter-web-exporter自动下载。
 
