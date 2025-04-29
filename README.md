@@ -27,10 +27,10 @@ https://youtu.be/dwlXvOzRkFo
 
 **步骤1：**
 下载安装:[twitter web exporter P](https://github.com/biglobin/twitter-web-exporter-p/blob/main/dist/twitter-web-exporter.user.js)
-
-安装后效果图：twitter web exporter P作为补丁插件，显示在twitter web exporter 下边
+安装后篡改猴界面效果图：
 ![07_patch3](https://github.com/user-attachments/assets/6bce559a-5f7a-4a55-877b-84d70234dc6d)
 
+安装后前端显示效果图：twitter web exporter P作为补丁插件，显示在twitter web exporter 下边
 ![05_patch1](https://github.com/user-attachments/assets/ed9d398e-132c-4c0f-b395-90bcc3769f93)
 
 **步骤2：**
