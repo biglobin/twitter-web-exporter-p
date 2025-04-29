@@ -15,10 +15,10 @@ twitter-web-exporter-p: 一种结合 [twitter-web-exporter](https://github.com/p
 3. 打开zumarobot.exe, 在用户、书签、搜索结果等页面的自动滚动，在滚动过程中，页面上的推文即可由twitter-web-exporter自动下载。
 
 
-![06_patch2](https://github.com/user-attachments/assets/a26967cc-c97f-4e4d-b9ef-8e773c33c577)
+![04_patch1.png](https://github.com/user-attachments/assets/a26967cc-c97f-4e4d-b9ef-8e773c33c577)
 
 
-![06_patch2](https://github.com/user-attachments/assets/d66c3931-917f-4c59-ab0c-cb4a516574a5)
+![05_patch2.png](https://github.com/user-attachments/assets/d66c3931-917f-4c59-ab0c-cb4a516574a5)
 
 详细视频:
 https://youtu.be/dwlXvOzRkFo
@@ -29,13 +29,16 @@ https://youtu.be/dwlXvOzRkFo
 下载安装:[twitter web exporter P](https://github.com/biglobin/twitter-web-exporter-p/blob/main/dist/twitter-web-exporter.user.js)
 
 安装后效果图：twitter web exporter P作为补丁插件，显示在twitter web exporter 下边
+![07_patch3](https://github.com/user-attachments/assets/6bce559a-5f7a-4a55-877b-84d70234dc6d)
 
 ![05_patch1.png](https://github.com/biglobin/twitter-web-exporter-p/blob/main/docs/05_patch1.png)
+![05_patch1](https://github.com/user-attachments/assets/ed9d398e-132c-4c0f-b395-90bcc3769f93)
 
 **步骤2：**
 点击上图红圈处，打开补丁插件主面板：
 
 ![06_patch2.png](https://github.com/biglobin/twitter-web-exporter-p/blob/main/docs/06_patch2.png)
+![06_patch2](https://github.com/user-attachments/assets/17acd826-2f0c-4684-8d0a-60b1f6a1df0d)
 
 **步骤3：**
 打开zumarobot.exe， 选择采集推文详情。配置好采集目标(用户|标签|搜索结果)后，点击启动。
