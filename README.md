@@ -31,13 +31,11 @@ https://youtu.be/dwlXvOzRkFo
 安装后效果图：twitter web exporter P作为补丁插件，显示在twitter web exporter 下边
 ![07_patch3](https://github.com/user-attachments/assets/6bce559a-5f7a-4a55-877b-84d70234dc6d)
 
-![05_patch1.png](https://github.com/biglobin/twitter-web-exporter-p/blob/main/docs/05_patch1.png)
 ![05_patch1](https://github.com/user-attachments/assets/ed9d398e-132c-4c0f-b395-90bcc3769f93)
 
 **步骤2：**
 点击上图红圈处，打开补丁插件主面板：
 
-![06_patch2.png](https://github.com/biglobin/twitter-web-exporter-p/blob/main/docs/06_patch2.png)
 ![06_patch2](https://github.com/user-attachments/assets/17acd826-2f0c-4684-8d0a-60b1f6a1df0d)
 
 **步骤3：**
